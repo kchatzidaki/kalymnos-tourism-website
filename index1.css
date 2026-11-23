@@ -1,0 +1,130 @@
+        body {
+            font-size: 14px;
+            font-family: cursive;
+            text-align: center;
+            background-color: royalblue;
+        }
+
+        h1 {
+            font-family: cursive;
+            font-weight: bolder;
+            text-align: center;
+        }
+
+        h2 {
+            color: #00ff00;
+            text-align: center;
+            font-weight: bold;
+            text-decoration: underline overline;
+        }
+
+        hr {
+            border: 2px ridge #000000;
+            margin-bottom: 2%;
+        }
+
+        ul#ul1 {
+            text-align: justify;
+            color: #e60d0d;
+            font-size: 16px;
+            list-style: inside disc;
+            font-weight: bold;
+        }
+
+        ul#ul2 {
+            text-align: justify;
+            color: #c91212;
+            font-size: 16px;
+            list-style: inside circle;
+            font-weight: bold;
+        }
+
+        p {
+            text-align: justify;
+            color: #000000;
+            font-size: 15px;
+        }
+
+        img#image36 {
+            height: 300px;
+            width: 300px;
+            border-radius: 10%;
+        }
+
+        img#image37 {
+            height: 300px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image38 {
+            height: 300px;
+            width: 300px;
+            border-radius: 10%;
+        }
+
+        img#image39 {
+            height: 300px;
+            width: 300px;
+            border-radius: 10%;
+        }
+
+        img#image40 {
+            height: 300px;
+            width: 300px;
+            border-radius: 10%;
+        }
+
+        img#image41 {
+            height: 300px;
+            width: 300px;
+            border-radius: 10%;
+        }
+
+        img#image42 {
+            height: 300px;
+            width: 300px;
+            border-radius: 10%;
+        }
+
+        img#image43 {
+            height: 300px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image44 {
+            height: 300px;
+            width: 300px;
+            border-radius: 10%;
+        }
+
+        img#image45 {
+            height: 300px;
+            width: 500px;
+            border-radius: 10%;
+        }
+
+        img#image46 {
+            height: 300px;
+            width: 350px;
+            border-radius: 10%;
+        }
+
+        img#image47 {
+            height: 300px;
+            width: 350px;
+            border-radius: 10%;
+        }
+
+        img#image48 {
+            height: 300px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image49 {
+            height: 300px;
+            width: 450px;
+            border-radius: 10%;
+        }

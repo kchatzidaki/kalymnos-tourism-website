@@ -1,0 +1,513 @@
+    body {
+        font-size: 14px;
+        font-family: cursive;
+        text-align: center;
+        background-image: url("images/mooning.png");
+    }
+
+	div#esoteriko {
+		margin-left:10%;
+		margin-right:10%;
+		background: rgb(61,80,198);
+		background: linear-gradient(0deg, rgba(61,80,198,1) 0%, rgba(228,204,204,0.742734593837535) 67%);
+	}
+        
+        hr {
+            border: 2px ridge #000000;
+            margin-bottom: 2%;
+        }
+
+        h1 {
+            font-family: cursive;
+            font-weight: bolder;
+            text-align: center;
+        }
+        
+        h2 {
+            color: #1100ff;
+            text-align: center;
+            font-weight: bold;
+            text-decoration: underline;
+        }
+
+        h2#sav {
+            text-align: center;
+            font-weight: bold;
+            text-decoration: underline overline;
+        }
+
+        h2#fin {
+            color: #c40404;
+            text-align: center;
+            font-weight: bold;
+            text-decoration: underline;
+        }
+
+        h3 {
+            color: #c40404;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        h3#sav {
+            text-align: center;
+            font-weight: bold;
+            text-decoration: underline;
+        }
+
+        h4 {
+            color: #266915;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        h4#sav {
+            color: #266915;
+            text-align: center;
+            font-weight: bold;
+        }
+        
+        ul#ul1 {
+            color: #5b0fb3;
+            font-size: 16px;
+            list-style: inside circle;
+            font-weight: bold;
+        }
+        
+        ul#ul2 {
+            font-size: 16px;
+            list-style: inside disc;
+            font-weight: bold;
+        }
+
+        ul#ul3 {
+            color: #266915;
+            font-size: 18px;
+            list-style: inside circle;
+            font-weight: bold;
+        }
+
+        ol#ol1 {
+            color: #c40404;
+            font-size: 17px;
+            list-style: inside lower-greek;
+            font-weight: bold;
+        }
+
+        ol#ol2 {
+            color: #c40404;
+            font-size: 17px;
+            list-style: inside lower-greek;
+            font-weight: bold;
+        }
+
+        ol#ol3 {
+            color: #c40404;
+            font-size: 17px;
+            list-style: inside lower-greek;
+            font-weight: bold;
+        }
+
+        p {
+            margin-right: 10%;
+            margin-left: 90px;
+            font-size: 15px;
+            text-align: center;
+            color: #000000;
+        }
+
+        p#sav {
+            color: #c40404;
+            font-size: 15px;
+        }
+
+        p#sav1 {
+            color: #266915;
+            font-size: 15px;
+        }
+
+        p#castle {
+            text-align: center;
+        }
+        
+        img#image01 {
+            height: 400px;
+            width: 400px;
+            border-radius: 10%;
+        }
+        
+        img#image02{
+            height: 300px;
+            width: 700px;
+            border-radius: 7%;
+        }
+        
+        img#image03 {
+            height: 200px;
+            width: 300px;
+            border-radius: 10%;
+        }
+        
+        img#image04 {
+            height: 250px;
+            width: 350px;
+            border-radius: 10%;
+        }
+        
+        img#image05 {
+            height: 300px;
+            width: 400px;
+            border-radius: 10%;
+        }
+        
+        img#image06 {
+            height: 250px;
+            width: 350px;
+            border-radius: 10%;
+        }
+        
+        img#image07 {
+            height: 300px;
+            width: 300px;
+            border-radius: 10%;
+        }
+        
+        img#image08 {
+            height: 300px;
+            width: 500px;
+            border-radius: 10%;
+        }
+        
+        img#image09 {
+            height: 350px;
+            width: 750px;
+            border-radius: 7%;
+        }
+
+        img#image10 {
+            height: 300px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image11 {
+            height: 300px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image12 {
+            height: 450px;
+            width: 550px;
+            border-radius: 10%;
+        }
+
+        img#image13 {
+            height: 400px;
+            width: 750px;
+            border-radius: 10%;
+        }
+
+        img#image14 {
+            height: 350px;
+            width: 550px;
+            border-radius: 10%;
+        }
+
+        img#image15 {
+            height: 650px;
+            width: 250px;
+            border-radius: 50%;
+        }
+
+        img#image16 {
+            height: 450px;
+            width: 550px;
+            border-radius: 10%;
+        }
+
+        img#image17 {
+            height: 450px;
+            width: 550px;
+            border-radius: 10%;
+        }
+
+        img#image18 {
+            height: 400px;
+            width: 500px;
+            border-radius: 10%;
+        }
+
+        img#image19 {
+            height: 450px;
+            width: 500px;
+            border-radius: 10%;
+        }
+
+        img#image20 {
+            height: 550px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image21 {
+            height: 450px;
+            width: 600px;
+            border-radius: 10%;
+        }
+
+        img#image22 {
+            height: 350px;
+            width: 600px;
+            border-radius: 10%;
+        }
+
+        img#image23 {
+            height: 550px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image24 {
+            height: 300px;
+            width: 500px;
+            border-radius: 10%;
+        }
+
+        img#image25 {
+            height: 300px;
+            width: 500px;
+            border-radius: 10%;
+        }
+
+        img#image26 {
+            height: 250px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image27 {
+            height: 250px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image28 {
+            height: 250px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image29 {
+            height: 250px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image30 {
+            height: 250px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image31 {
+            height: 250px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image32 {
+            height: 250px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image33 {
+            height: 250px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image34 {
+            height: 250px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image35 {
+            height: 550px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image50 {
+            height: 500px;
+            width: 350px;
+            border-radius: 10%;
+        }
+
+        img#image51 {
+            height: 500px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image52 {
+            height: 500px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image53 {
+            height: 450px;
+            width: 400px;
+            border-radius: 10%;
+        }
+
+        img#image54 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image55 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image56 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image57 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image58 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image59 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image60 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image61 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image62 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image63 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image64 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image65 {
+            height: 400px;
+            width: 450px;
+            border-radius: 10%;
+        }
+
+        img#image73 {
+            height: 400px;
+            width: 700px;
+            border-radius: 10%;
+        }
+
+        .button {
+            border-radius: 4px;
+            background-color: #2ca80d;
+            border: none;
+            color: #FFFFFF;
+            text-align: center;
+            font-size: 20px;
+            padding: 10px;
+            width: 100px;
+            transition: all 0.5s;
+            cursor: pointer;
+            margin: 5px;
+        }
+
+        .button span {
+            cursor: pointer;
+            display: inline-block;
+            position: relative;
+            transition: 0.5s;
+        }
+
+        .button span:after {
+            content: '\00bb';
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            right: -20px;
+            transition: 0.5s;
+        }
+
+        .button:hover span {
+            padding-right: 25px;
+        }
+
+        .button:hover span:after {
+            opacity: 1;
+            right: 0;
+        }
+
+        ul#button {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000000;
+            position: sticky;
+            top: 0;
+            width: 100%;
+        }
+
+        li#button {
+            float: left;
+        }
+
+        li#button a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li#button a:hover:not(.active) {
+            background-color: #707070;
+        }
+
+        .active {
+            background-color: #00f7ff;
+        }
